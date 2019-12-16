@@ -54,7 +54,7 @@ summaryLength = 30
   homepage_button_link2 = '/about'
   homepage_button_text2 = 'About The Expo'
   homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
-  homepage_image = 'btc-live.jpg'
+  homepage_image = '/images/btc-live.jpg'
 
   ## You can enable to add anchor links to header elements
   # enable_anchor_link = true
