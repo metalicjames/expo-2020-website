@@ -26,6 +26,8 @@ summaryLength = 30
   google_analytics_id=""
   homepage_button_link = '/docs'
   homepage_button_text = 'Register Now'
+  homepage_button_link2 = '/docs'
+  homepage_button_text2 = 'About The Expo'
   homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
   homepage_image = 'btc-live.jpg'
 
