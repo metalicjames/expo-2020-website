@@ -28,9 +28,24 @@ summaryLength = 30
     weight = 3
 
 [[menu.main]]
+    name = "Speakers"
+    url = "/speakers"
+    weight = 4
+
+[[menu.main]]
+    name = "Sponsors"
+    url = "/sponsors"
+    weight = 5
+
+[[menu.main]]
     name = "Gallery"
     url = "/gallery"
-    weight = 4
+    weight = 6
+
+[[menu.main]]
+    name = "Prior Expos"
+    url = "https://web.archive.org/web/*/http://mitbitcoinexpo.org/"
+    weight = 7
 
 [params]
   google_analytics_id=""

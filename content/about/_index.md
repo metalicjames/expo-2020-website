@@ -23,3 +23,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Interdum varius sit amet mattis vulputate enim nulla aliquet. Quam quisque id diam vel quam elementum pulvinar etiam. Magna fermentum iaculis eu non diam phasellus vestibulum lorem sed. Neque gravida in fermentum et sollicitudin. Vulputate dignissim suspendisse in est. Mi bibendum neque egestas congue quisque. Cursus risus at ultrices mi. Facilisis gravida neque convallis a cras semper auctor neque vitae. Facilisis gravida neque convallis a cras semper auctor neque vitae.
 
 *- Wassim Alsindi, CES Managing Editor*
+
+## Contact Us
+
+Send email to [mitbtc-expo@mit.edu](mailto:mitbtc-expo@mit.edu)
