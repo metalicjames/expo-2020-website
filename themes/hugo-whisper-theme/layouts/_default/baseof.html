@@ -26,7 +26,10 @@
   <div class="wrapper">
     {{ partial "header.html" . }}
 
-    {{ $displaySidebar := true }}
+    {{ $displaySidebar := false }}
+    {{if not .IsHome}}
+    {{ $displaySidebar = true }}
+    {{end}}
 
     {{ if $displaySidebar }}
     <div class="container pt-2 pt-md-6 pb-3 pb-md-6">
