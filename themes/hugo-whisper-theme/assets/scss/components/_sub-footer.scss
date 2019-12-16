@@ -1,5 +1,5 @@
 .sub-footer {
-  background: #f4f5fb;
+  background: #212529;
   padding-top: 20px;
   padding-bottom: 20px;
   @include media-breakpoint-up(md) {
@@ -44,7 +44,7 @@
         }
         &.zerostatic {
           a {
-            color: #333;
+            color: #ffffff;
           }
         }
       }
