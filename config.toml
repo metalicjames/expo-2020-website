@@ -18,15 +18,25 @@ summaryLength = 30
     weight = 1
 
 [[menu.main]]
-    name = "Docs"
-    url = "/docs/"
+    name = "About"
+    url = "/about/"
     weight = 2
+
+[[menu.main]]
+    name = "Hackathon"
+    url = "/hackathon"
+    weight = 3
+
+[[menu.main]]
+    name = "Gallery"
+    url = "/gallery"
+    weight = 4
 
 [params]
   google_analytics_id=""
-  homepage_button_link = '/docs'
+  homepage_button_link = 'https://mit.universitytickets.com'
   homepage_button_text = 'Register Now'
-  homepage_button_link2 = '/docs'
+  homepage_button_link2 = '/about'
   homepage_button_text2 = 'About The Expo'
   homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
   homepage_image = 'btc-live.jpg'
