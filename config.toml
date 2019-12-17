@@ -38,14 +38,19 @@ summaryLength = 30
     weight = 5
 
 [[menu.main]]
+    name = "Committee"
+    url = "/committee"
+    weight = 6
+
+[[menu.main]]
     name = "Gallery"
     url = "/gallery"
-    weight = 6
+    weight = 7
 
 [[menu.main]]
     name = "Prior Expos"
     url = "https://web.archive.org/web/*/http://mitbitcoinexpo.org/"
-    weight = 7
+    weight = 8
 
 [params]
   google_analytics_id=""
