@@ -35,7 +35,12 @@ Recent articles (1,2) focusing on the growing stack…
 
 ## Hackathon
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas sed sed risus pretium quam vulputate dignissim. Ac turpis egestas integer eget aliquet nibh praesent tristique. Bibendum neque egestas congue quisque egestas. Amet justo donec enim diam vulputate ut. Rhoncus urna neque viverra justo nec. Eget arcu dictum varius duis at consectetur lorem donec massa. Leo vel fringilla est ullamcorper. Eu consequat ac felis donec et. Convallis aenean et tortor at risus viverra adipiscing at. Praesent elementum facilisis leo vel fringilla est ullamcorper. Congue quisque egestas diam in arcu. Vitae tempus quam pellentesque nec nam aliquam sem. Praesent tristique magna sit amet purus gravida quis. Amet dictum sit amet justo. Varius quam quisque id diam. Elementum curabitur vitae nunc sed velit dignissim sodales ut. Sit amet justo donec enim diam. Turpis massa tincidunt dui ut ornare lectus sit amet. Tortor at risus viverra adipiscing at in.
+Be part of “Building The Stack!” Alongside the Bitcoin Expo, this year’s hackathon focuses on building
+out the components of a blockchain stack so we can expand the technology’s usefulness and increase
+adoption. The hackathon will bring together students for a weekend of coding, learning, experimenting,
+and collaborating. The hackathon is co-located with the Bitcoin Expo and MIT Press’ Cryptoeconomic
+Summit Journal conference, so you’ll also get to meet the people at the forefront of blockchain and
+cryptocurrency development.
 
 *- Hackathon Chairs*
 
