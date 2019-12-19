@@ -26,6 +26,7 @@ If you would like to feature your APIs or suggest a challenge please email the H
 
 ### Hackathon Chairs
 
+Christine (cfr626 at gmail dot com)
 
 
 All other inquires:
