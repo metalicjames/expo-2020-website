@@ -22,35 +22,40 @@ summaryLength = 30
     url = "/about/"
     weight = 2
 
-[[menu.main]]
-    name = "Hackathon"
-    url = "/hackathon"
-    weight = 3
+# [[menu.main]]
+#     name = "Hackathon"
+#     url = "/hackathon"
+#     weight = 3
 
-[[menu.main]]
-    name = "Speakers"
-    url = "/speakers"
-    weight = 4
+# [[menu.main]]
+#     name = "Speakers"
+#     url = "/speakers"
+#     weight = 4
 
-[[menu.main]]
-    name = "Sponsors"
-    url = "/sponsors"
-    weight = 5
+# [[menu.main]]
+#     name = "Sponsors"
+#     url = "/sponsors"
+#     weight = 5
 
-[[menu.main]]
-    name = "Committee"
-    url = "/committee"
-    weight = 6
+# [[menu.main]]
+#     name = "Committee"
+#     url = "/committee"
+#     weight = 6
 
-[[menu.main]]
-    name = "Gallery"
-    url = "/gallery"
-    weight = 7
+# [[menu.main]]
+#     name = "Gallery"
+#     url = "/gallery"
+#     weight = 7
 
 [[menu.main]]
     name = "Prior Expos"
-    url = "https://web.archive.org/web/*/http://mitbitcoinexpo.org/"
+    url = "/prior"
     weight = 8
+
+[[menu.main]]
+    name = "Get In Touch"
+    url = "/contact"
+    weight = 9
 
 [params]
   google_analytics_id=""
@@ -65,7 +70,7 @@ summaryLength = 30
   # enable_anchor_link = true
 
   [params.homepage_meta_tags]
-    meta_description = "Hugo Whisper is a documentation theme built with Hugo."
+    meta_description = "Hugo Whisper"
     meta_og_title = "Hugo Whisper Theme"
     meta_og_type = "website"
     meta_og_url = "https://hugo-whisper.netlify.com"
