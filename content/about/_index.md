@@ -31,7 +31,7 @@ We were excited by the Taproot/Graftroot/Schnorr soft fork proposal; we are ever
 Still, with a growing developer- and user-base, it is important we build consistent, accessible, and clean tools and experiences. Constructing a distributed, censorship-resistant digital world requires intuitive structures be adopted and implemented. Current infrastructure communicates seamlessly. Future infrastructure must similarly allow coders and users alike to engage in consistent, albeit new manners.
 Recent articles (1,2) focusing on the growing stack…
 
-*- Hugo Uvegi, MIT Bitcoin Expo 2020 Director*
+*&mdash; Hugo Uvegi, MIT Bitcoin Expo 2020 Director*
 
 ## Hackathon
 
@@ -42,7 +42,7 @@ and collaborating. The hackathon is co-located with the Bitcoin Expo and MIT Pre
 Summit Journal conference, so you’ll also get to meet the people at the forefront of blockchain and
 cryptocurrency development.
 
-*- Hackathon Chairs*
+*&mdash; Hackathon Chairs*
 
 ## [Cryptoeconomic Systems](http://2020.cryptoeconomic.systems)
 
@@ -50,7 +50,7 @@ The Cryptoeconomic Systems journal and conference series aims to be a reputable 
 
 The journal is to be published by MIT Press using a Diamond Open Access policy, co-ordinated by a Managing Editor Wassim Alsindi and two Editors-in-Chief: Andrew Miller and Neha Narula. Guidance comes from our Advisory Board, whose members are: Dan Boneh, Eric Budish, Justin Drake, Shafi Goldwasser, Maurice Herlihy, Simon Johnson, Dahlia Malkhi, Sendhil Mullainathan, Arvind Narayanan, Robert Townsend, Kevin Werbach & Pieter Wuille.
 
-*- Wassim Alsindi, CES Managing Editor*
+*&mdash; Wassim Alsindi, CES Managing Editor*
 
 ## Contact Us
 
