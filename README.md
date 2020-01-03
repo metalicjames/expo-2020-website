@@ -9,6 +9,11 @@ git submodule update --init --recursive
 to pull the theme into your local
 then you can run the server with
 
+To install hugo on OSX:
+```
+brew install hugo
+```
+
 ```console
 hugo server -D
 ```
