@@ -4,7 +4,7 @@ date: 2018-11-28T15:14:39+10:00
 layout: 'list'
 ---
 
-<img src="/new/images/expobitcoinbanner2.png" style="width:90%;padding-top:1em;padding-bottom:1em;"/>
+<img src="/new/images/expobitcoinbanner2.png" style="width:90%;padding-top:1em;"/>
 
 ## Foreword from the Expo Director
 
@@ -16,13 +16,13 @@ It feels like just yesterday we were mourning the death of Bitcoin. Crypto winte
 
 This year, the the MIT Bitcoin Club is excited to announce the 7th Annual Expo — MIT Bitcoin Expo 2020: Building the Stack!
 
-### Background
+#### Background
 
 The [MIT Bitcoin Club](http://bitcoin.mit.edu/) is a student and blockchain-enthusiasts run club at MIT, whose mission is to increase awareness and use of cryptocurrency and to provide forums where blockchain-related ideas, projects, programs, and businesses can be studied, discussed, and developed. The club has also organized the MIT Bitcoin Expo every year since 2014 — a two day conference focused on all things blockchain.
 
 The club meets on a weekly basis to discuss the technology — both its merits and its challenges — and work on various projects. Lately, we’ve focused on improving our programming and cryptography skills, working through exercises in Jimmy Song’s [Programming Bitcoin](https://programmingbitcoin.com/) and learning about new scaling technologies like [UTreeXO](https://dci.mit.edu/utreexo). Learning through experience speaks to the heart of MIT’s motto: Mens et Manus — “mind and hand” — and is one of the reasons we’re so excited for this year’s Expo.
 
-### 7th Annual Expo
+#### 7th Annual Expo
 
 We are excited for you to join us in Cambridge for the 7th Annual Expo, to be held on March 7th and 8th, 2020 at MIT!
 
@@ -38,7 +38,7 @@ Still, with a growing developer- and user-base, it is important we build consist
 
 Recent articles ([1](https://medium.com/digitalassetresearch/a-look-at-innovation-in-bitcoins-technology-stack-7edf877eab14), [2](https://medium.com/blockchain-capital-blog/lightning-is-only-the-beginning-the-emerging-bitcoin-stack-fb6d4aefb664)) focusing on the growing stack have spoken to what we see as central to the emerging Bitcoin and blockchain ecosystem. So we’ve decided to build a conference focusing on exactly that.
 
-### Join us in Cambridge, March 7–8!
+#### Join us in Cambridge, March 7–8!
 
 This year’s expo is sure to be an exciting one. It will feature:
 
@@ -46,7 +46,7 @@ This year’s expo is sure to be an exciting one. It will feature:
 - A 24-hour hackathon, during which hackers will learn and build amazing projects!
 - The inaugural Cryptoeconomic Systems Conference ([CES ‘20](https://cryptoeconomicsystems.pubpub.org/)), co-located with this year’s expo!
 
-### Looking forward to seeing at the 2020 MIT Bitcoin Expo!
+#### Looking forward to seeing at the 2020 MIT Bitcoin Expo!
 
 *&mdash; Hugo Uvegi, MIT Bitcoin Expo 2020 Director*
 
