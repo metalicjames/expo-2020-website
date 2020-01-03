@@ -57,8 +57,8 @@ summaryLength = 30
 
 [params]
   google_analytics_id=""
-  homepage_button_link = 'https://mit.universitytickets.com'
-  homepage_button_text = 'Register Now'
+  homepage_button_link = 'https://tinyurl.com/mitbtcexpo2020'
+  homepage_button_text = 'Join The Mailing List'
   homepage_button_link2 = '/about'
   homepage_button_text2 = 'About The Expo'
   homepage_intro = ''
