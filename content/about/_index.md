@@ -46,6 +46,8 @@ This year’s expo is sure to be an exciting one. It will feature:
 - A 24-hour hackathon, during which hackers will learn and build amazing projects!
 - The inaugural Cryptoeconomic Systems Conference ([CES ‘20](https://cryptoeconomicsystems.pubpub.org/)), co-located with this year’s expo!
 
+_A big thank you to our early sponsors [Castle Island Ventures](https://www.castleisland.vc/) and [Nebulous Labs](https://nebulous.tech/) for pledging to support this year’s Expo!_
+
 #### Looking forward to seeing at the 2020 MIT Bitcoin Expo!
 
 *&mdash; Hugo Uvegi, MIT Bitcoin Expo 2020 Director*
