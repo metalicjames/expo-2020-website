@@ -51,8 +51,8 @@ summaryLength = 30
 #     weight = 7
 
 [[menu.main]]
-    name = "Prior Expos"
-    url = "https://web.archive.org/web/20191228170456/https://mitbitcoinexpo.org/"
+    name = "Prior Expo"
+    url = "/flashback_2019/"
     weight = 8
 
 [params]

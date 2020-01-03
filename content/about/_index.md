@@ -12,7 +12,7 @@ It feels like just yesterday we were mourning the death of Bitcoin. Crypto winte
 
 _**Psych!**_
 
-[Last year](https://web.archive.org/web/20191228170456/https://mitbitcoinexpo.org/), we celebrated 10 years of Bitcoin, blockchain, and cryptocurrency.
+[Last year](https://mitbitcoinexpo.org/flashback_2019), we celebrated 10 years of Bitcoin, blockchain, and cryptocurrency.
 
 This year, the the MIT Bitcoin Club is excited to announce the 7th Annual Expo — MIT Bitcoin Expo 2020: Building the Stack!
 
