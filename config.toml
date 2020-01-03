@@ -52,7 +52,7 @@ summaryLength = 30
 
 [[menu.main]]
     name = "Prior Expos"
-    url = "https://web.archive.org/web/*/http://mitbitcoinexpo.org/"
+    url = "https://web.archive.org/web/20191228170456/https://mitbitcoinexpo.org/"
     weight = 8
 
 [params]

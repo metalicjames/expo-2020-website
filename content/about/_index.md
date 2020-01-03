@@ -10,7 +10,7 @@ layout: 'list'
 
 It feels like just yesterday we were mourning the death of Bitcoin. Crypto winter claimed its casualties, and unfortunately, Bitcoin was to be no more.
 
-**Psych!**
+_**Psych!**_
 
 [Last year](https://web.archive.org/web/20191228170456/https://mitbitcoinexpo.org/), we celebrated 10 years of Bitcoin, blockchain, and cryptocurrency.
 
