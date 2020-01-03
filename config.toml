@@ -1,4 +1,4 @@
-baseURL = "https://mitbitcoinexpo.org/new"
+baseURL = "https://mitbitcoinexpo.org/"
 languageCode = "en-us"
 title = "MIT Bitcoin Expo 2020"
 themesDir = "themes"
@@ -9,7 +9,7 @@ pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
 
 [markup.goldmark.renderer]
-unsafe= true
+unsafe = true
 
 # Controls how many words are printed in the content summary on the docs homepage.
 # See https://gohugo.io/content-management/summaries/

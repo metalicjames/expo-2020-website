@@ -4,7 +4,7 @@ date: 2018-11-28T15:14:39+10:00
 layout: 'list'
 ---
 
-<img src="/new/images/expobitcoinbanner2.png" style="width:90%;padding-top:1em;"/>
+<img src="/images/expobitcoinbanner2.png" style="width:90%;padding-top:1em;"/>
 
 ## Foreword from the Expo Director
 
@@ -66,4 +66,4 @@ The journal is to be published by MIT Press using a Diamond Open Access policy, 
 
 ## Contact Us
 
-Send email to [mitbtc-expo@mit.edu](mailto:mitbtc-expo@mit.edu)
+For inquiries including sponsorship and speaker suggestions, send email to [mitbtc-expo@mit.edu](mailto:mitbtc-expo@mit.edu).
