@@ -55,6 +55,11 @@ summaryLength = 30
     url = "/flashback_2019/"
     weight = 8
 
+[[menu.main]]
+    name = "Sign Up"
+    url = "https://eepurl.com/gOVdKb"
+    weight = 9
+
 [params]
   google_analytics_id=""
   homepage_button_link = 'https://eepurl.com/gOVdKb'
