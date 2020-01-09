@@ -14,13 +14,13 @@ _**Psych!**_
 
 [Last year](https://mitbitcoinexpo.org/flashback_2019), we celebrated 10 years of Bitcoin, blockchain, and cryptocurrency.
 
-This year, the the MIT Bitcoin Club is excited to announce the 7th Annual Expo — MIT Bitcoin Expo 2020: Building the Stack!
+This year, the the MIT Bitcoin Club is excited to announce the 7th Annual Expo — [MIT Bitcoin Expo 2020: Building the Stack](https://mitbitcoinexpo.org/)!
 
 #### Background
 
-The [MIT Bitcoin Club](http://bitcoin.mit.edu/) is a student and blockchain-enthusiasts run club at MIT, whose mission is to increase awareness and use of cryptocurrency and to provide forums where blockchain-related ideas, projects, programs, and businesses can be studied, discussed, and developed. The club has also organized the MIT Bitcoin Expo every year since 2014 — a two day conference focused on all things blockchain.
+The [MIT Bitcoin Club](http://bitcoin.mit.edu/) is a student and blockchain-enthusiasts run club at MIT, whose mission is to increase awareness and use of cryptocurrency and to provide forums where blockchain-related ideas, projects, programs, and businesses can be studied, discussed, and developed. The club has also organized the MIT Bitcoin Expo every year since 2014 — a two day conference focused on all things blockchain .
 
-The club meets on a weekly basis to discuss the technology — both its merits and its challenges — and work on various projects. Lately, we’ve focused on improving our programming and cryptography skills, working through exercises in Jimmy Song’s [Programming Bitcoin](https://programmingbitcoin.com/) and learning about new scaling technologies like [UTreeXO](https://dci.mit.edu/utreexo). Learning through experience speaks to the heart of MIT’s motto: Mens et Manus — “mind and hand” — and is one of the reasons we’re so excited for this year’s Expo.
+The club meets on a weekly basis to discuss the technology — both its merits and its challenges — and work on various projects. Lately, we’ve focused on improving our programming and cryptography skills, working through exercises in Jimmy Song’s Programming Bitcoin and learning about new scaling technologies like UTreeXO. Learning through experience speaks to the heart of MIT’s motto: _Mens et Manus_ — “mind and hand” — and is one of the reasons we’re so excited for this year’s Expo.
 
 #### 7th Annual Expo
 
@@ -34,7 +34,11 @@ From efforts to optimize base-layer protocols and sustained interest in privacy 
 
 We were excited by the Taproot/Graftroot/Schnorr soft fork proposal; we are ever-anxious for the ETH2.0 hard fork; we love the existence of varied, yet standardized lightning implementations; and we continue to be intrigued by the precedent-setting SEC actions against a handful of ICO companies.
 
-Still, with a growing developer- and user-base, it is important we build consistent, accessible, and clean tools and experiences. Constructing a distributed, censorship-resistant digital world requires intuitive structures be adopted and implemented. Current infrastructure (such as HTTP over TCP/IP) communicates seamlessly and allows the common user and front-end developer alike to operate without necessarily understanding the intricacies of sending packets over the internet. In Bitcoin and other public blockchain implementations we should strive for similar standards where developers can focus their efforts and users can operate under the assumption that other parts of the stack will work.
+Still, with a growing developer- and user-base, it is important we build consistent, accessible, and clean tools and experiences. Constructing a distributed, censorship-resistant digital world requires intuitive structures be adopted and implemented.
+
+Current infrastructure (such as HTTP over TCP/IP) communicates seamlessly and allows the common user and front-end developer alike to operate without necessarily understanding the intricacies of sending packets over the internet.
+
+In Bitcoin and other public blockchain implementations we should strive for similar standards where developers can focus their efforts and users can operate under the assumption that other parts of the stack will work.
 
 Recent articles ([1](https://medium.com/digitalassetresearch/a-look-at-innovation-in-bitcoins-technology-stack-7edf877eab14), [2](https://medium.com/blockchain-capital-blog/lightning-is-only-the-beginning-the-emerging-bitcoin-stack-fb6d4aefb664)) focusing on the growing stack have spoken to what we see as central to the emerging Bitcoin and blockchain ecosystem. So we’ve decided to build a conference focusing on exactly that.
 
@@ -46,9 +50,9 @@ This year’s expo is sure to be an exciting one. It will feature:
 - A 24-hour hackathon, during which hackers will learn and build amazing projects!
 - The inaugural Cryptoeconomic Systems Conference ([CES ‘20](https://cryptoeconomicsystems.pubpub.org/)), co-located with this year’s expo!
 
-_A big thank you to our early sponsors [Castle Island Ventures](https://www.castleisland.vc/) and [Nebulous Labs](https://nebulous.tech/) for pledging to support this year’s Expo!_
+_A big thank you to our early sponsors [Castle Island Ventures](https://www.castleisland.vc/) and [Sia](https://sia.tech/) for pledging to support this year’s Expo!_
 
-#### Looking forward to seeing at the 2020 MIT Bitcoin Expo!
+#### Looking forward to seeing you at the 2020 MIT Bitcoin Expo!
 
 *&mdash; Hugo Uvegi, MIT Bitcoin Expo 2020 Director*
 
