@@ -4,6 +4,8 @@ title = "MIT Bitcoin Expo 2020"
 themesDir = "themes"
 theme = "hugo-whisper-theme"
 
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
