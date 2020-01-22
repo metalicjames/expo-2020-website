@@ -28,9 +28,14 @@ summaryLength = 30
     weight = 2
 
 [[menu.main]]
+    name = "Speakers"
+    url = "/speakers/"
+    weight = 3
+
+[[menu.main]]
     name = "Sponsors"
     url = "/sponsors/"
-    weight = 3
+    weight = 4
 
 # [[menu.main]]
 #     name = "Hackathon"
