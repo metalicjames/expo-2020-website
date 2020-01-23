@@ -56,7 +56,7 @@ _A big thank you to our early sponsors [Castle Island Ventures](https://www.cast
 
 *&mdash; Hugo Uvegi, MIT Bitcoin Expo 2020 Director*
 
-## Hackathon
+## [Hackathon](https://mit-btc-expo-hackathon-2020.devpost.com/)
 
 Be part of “Building The Stack”! Alongside the MIT Bitcoin Expo, this year’s hackathon focuses on building out the components of a blockchain stack so we can expand the technology’s usefulness and increase adoption. The hackathon will bring together students for a weekend of coding, learning, experimenting, and collaborating. The hackathon is co-located with the Bitcoin Expo and MIT Press’ inaugural Cryptoeconomic Systems Conference, so you’ll also get to meet and hear from the people at the forefront of blockchain and cryptocurrency development.
 
