@@ -63,8 +63,8 @@ summaryLength = 30
     weight = 8
 
 [[menu.main]]
-    name = "Sign Up"
-    url = "https://eepurl.com/gOVdKb"
+    name = "Register"
+    url = "https://www.eventbrite.com/e/mit-bitcoin-expo-2020-tickets-91011105667"
     weight = 9
 
 [params]
@@ -73,6 +73,8 @@ summaryLength = 30
   homepage_button_text = 'Join The Mailing List'
   homepage_button_link2 = '/about'
   homepage_button_text2 = 'About The Expo'
+  homepage_button_link3 = 'https://www.eventbrite.com/e/mit-bitcoin-expo-2020-tickets-91011105667'
+  homepage_button_text3 = 'Register Now'
   homepage_intro = ''
   homepage_image = '/images/btc-live.jpg'
 
