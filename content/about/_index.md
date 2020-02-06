@@ -73,3 +73,6 @@ The journal is to be published by MIT Press using a Diamond Open Access policy, 
 ## Contact Us
 
 For inquiries including sponsorship and speaker suggestions, send email to [mitbtc-expo@mit.edu](mailto:mitbtc-expo@mit.edu).
+
+Our code of conduct is viewable here: [https://policies.mit.edu/policy-topics/conduct-and-community-standards](https://policies.mit.edu/policy-topics/conduct-and-community-standards)
+
