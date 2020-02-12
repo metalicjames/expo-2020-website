@@ -42,25 +42,10 @@ summaryLength = 30
     url = "https://mit-btc-expo-hackathon-2020.devpost.com/"
     weight = 4
 
-# [[menu.main]]
-#     name = "Speakers"
-#     url = "/speakers"
-#     weight = 4
-
-# [[menu.main]]
-#     name = "Sponsors"
-#     url = "/sponsors"
-#     weight = 5
-
-# [[menu.main]]
-#     name = "Committee"
-#     url = "/committee"
-#     weight = 6
-
-# [[menu.main]]
-#     name = "Gallery"
-#     url = "/gallery"
-#     weight = 7
+ [[menu.main]]
+    name = "WiB Networking"
+    url = "https://meetu.ps/e/HK3vZ/JTbkL/a"
+    weight = 5
 
 [[menu.main]]
     name = "Prior Expo"
