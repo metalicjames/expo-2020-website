@@ -6,7 +6,7 @@ layout: 'list'
 
 ## Gold Sponsors
 
-<a href="https://sia.tech/" target="_blank"><img src="/images/sia.png" style="width:35%;"></a>
+<a href="https://sia.tech/" target="_blank"><img src="/images/sia.png" style="width:35%;"></a><a href="https://www.nervos.org/" target="_blank"><img src="/images/nervos.png" style="width:35%;"></a>
 
 ### Silver Sponsors
 
