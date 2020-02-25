@@ -6,6 +6,21 @@ layout: 'list'
 
 ## Saturday
 
+<table>
+<thead>
+<tr>
+<th colspan="2">MIT Bitcoin Expo</th><th colspan="2">Cryptoeconomic Systems</th>
+<tr>
+<th colspan="2">10-250</th><th colspan="2">54-100</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>8:00 AM - 9:00 AM</td><td>Registration - Building 32 (Stata Center, Gates Entrance)</td><td>8:00 AM - 9:00 AM</td><td>Registration - Building 32 (Stata Center, Gates Entrance)</td>
+</tr>
+</tbody>
+</table>
+
 <a href="/images/agenda1.png"><img src="/images/agenda1.png"></a>
 
 ## Sunday
