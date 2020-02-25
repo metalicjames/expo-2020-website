@@ -6,9 +6,9 @@ layout: 'list'
 
 ## Saturday
 
-<img src="/images/agenda1.png">
+<a href="/images/agenda1.png"><img src="/images/agenda1.png"></a>
 
 ## Sunday
 
-<img src="/images/agenda2.png">
+<a href="/images/agenda2.png"><img src="/images/agenda2.png"></a>
 
