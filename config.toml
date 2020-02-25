@@ -63,7 +63,7 @@ summaryLength = 30
     weight = 9
 
 [params]
-  google_analytics_id=""
+  google_analytics_id= "UA-159043754-1"
   homepage_button_link = 'https://eepurl.com/gOVdKb'
   homepage_button_text = 'Join The Mailing List'
   homepage_button_link2 = '/about'
