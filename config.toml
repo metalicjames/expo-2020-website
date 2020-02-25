@@ -31,21 +31,26 @@ summaryLength = 30
     name = "Speakers"
     url = "/speakers/"
     weight = 3
+    
+[[menu.main]]
+    name = "Agenda"
+    url = "/agenda/"
+    weight = 4
 
 [[menu.main]]
     name = "Sponsors"
     url = "/sponsors/"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     name = "Hackathon"
     url = "https://mit-btc-expo-hackathon-2020.devpost.com/"
-    weight = 4
+    weight = 6
 
  [[menu.main]]
     name = "WiB Networking"
     url = "https://meetu.ps/e/HK3vZ/JTbkL/a"
-    weight = 5
+    weight = 7
 
 [[menu.main]]
     name = "Prior Expo"
