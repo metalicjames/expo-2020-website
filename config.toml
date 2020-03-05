@@ -47,20 +47,25 @@ summaryLength = 30
     url = "/hackathon/"
     weight = 6
 
+[[menu.main]]
+    name = "Committee"
+    url = "/committee/"
+    weight = 7
+
  [[menu.main]]
     name = "WiB Networking"
     url = "https://meetu.ps/e/HK3vZ/JTbkL/a"
-    weight = 7
+    weight = 8
 
 [[menu.main]]
     name = "Prior Expo"
     url = "/flashback_2019/"
-    weight = 8
+    weight = 9
 
 [[menu.main]]
     name = "Register"
     url = "https://www.eventbrite.com/e/mit-bitcoin-expo-2020-tickets-91011105667"
-    weight = 9
+    weight = 10
 
 [params]
   google_analytics_id= "UA-159043754-1"
