@@ -22,7 +22,7 @@ layout: 'list'
 
 ### Media Partners
 
-<a href="https://cointelegraph.com/" target="_blank"><img src="/images/cointelegraph.jpg" style="width:25%;border: 1em solid white;margin:1em;"></a><a href="https://bitcoinmagazine.com/" target="_blank"><img src="/images/bitcoinmagazine.png" style="width:25%;margin:1em;"></a>
+<a href="https://cointelegraph.com/" target="_blank"><img src="/images/cointelegraph.jpg" style="width:25%;border: 1em solid white;margin:1em;"></a><a href="https://bitcoinmagazine.com/" target="_blank"><img src="/images/bitcoinmagazine.png" style="width:25%;margin:1em;"></a><a href="https://www.theblockcrypto.com/" target="_blank"><img src="/images/block.png" style="width:25%;margin:1em;"></a>
 
 
 For sponsorship enquiries send mail to [mitbtc-expo@mit.edu](mailto:mitbtc-expo@mit.edu).
