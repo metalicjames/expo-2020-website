@@ -44,7 +44,7 @@ summaryLength = 30
 
 [[menu.main]]
     name = "Hackathon"
-    url = "https://mit-btc-expo-hackathon-2020.devpost.com/"
+    url = "/hackathon/"
     weight = 6
 
  [[menu.main]]
