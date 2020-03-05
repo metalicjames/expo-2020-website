@@ -337,6 +337,16 @@ layout: 'list'
 </div>
 <div class="row">
 <div class="col-4">
+<img src="/images/vora.jpg">
+</div>
+<div class="col-8">
+<h4>Manasi Vora</h4>
+<p><i>Head of Product Strategy, Sia</i></p>
+<p>Manasi leads product and growth at Sia. She is the Founder of Women in Blockchain Boston and was the Director of MIT Bitcoin Expo last year.</p>
+</div>
+</div>
+<div class="row">
+<div class="col-4">
 <img src="/images/vorick.jpg">
 </div>
 <div class="col-8">
