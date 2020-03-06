@@ -147,6 +147,16 @@ layout: 'list'
 </div>
 <div class="row">
 <div class="col-4">
+<img src="/images/kokoshi.jpg">
+</div>
+<div class="col-8">
+<h4>Ada Kokoshi</h4>
+<p><i>Digital Assets Lead, State Street</i></p>
+<p>Beralda (Ada) Kokoshi is a Digital Assets lead team at State Street. Her work focuses on building business models on custody, trading and asset servicing products for digital assets. She has over 11+ of experience working across different State Street businesses, such as Custody Operations, Middle Office outsourcing, Data and Analytics, and Global Technology. Ada’s experience varies in several roles including product strategy, program execution, business development and custody operations. Ada has an MBA from Boston University and a BA in International Relations and History.</p>
+</div>
+</div>
+<div class="row">
+<div class="col-4">
 <img src="/images/lecalvez.jpg">
 </div>
 <div class="col-8">
