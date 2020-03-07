@@ -6,13 +6,13 @@ layout: 'list'
 
 ## Friday
 
-<a href="/images/bitdevs.png"><img src="/images/bitdevs.png"></a>
+<a href="https://www.meetup.com/Boston-BitDevs/"><img src="/images/bitdevs.png"></a>
 
 ## Saturday
 
 <a href="/images/agenda1.png"><img src="/images/agenda1.png"></a>
 
-<a href="/images/wib.jpg"><img src="/images/wib.jpg"></a>
+<a href="https://meetu.ps/e/HK3vZ/JTbkL/a"><img src="/images/wib.jpg"></a>
 
 ## Sunday
 
