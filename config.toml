@@ -1,6 +1,6 @@
 baseURL = "https://mitbitcoinexpo.org/"
 languageCode = "en-us"
-title = "MIT Bitcoin Expo 2020"
+title = "MIT Bitcoin Expo 2021"
 themesDir = "themes"
 theme = "hugo-whisper-theme"
 
@@ -23,60 +23,25 @@ summaryLength = 30
     weight = 1
 
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Speaker Application"
+    url = "/app"
     weight = 2
-
-[[menu.main]]
-    name = "Speakers"
-    url = "/speakers/"
-    weight = 3
-    
-[[menu.main]]
-    name = "Agenda"
-    url = "/agenda/"
-    weight = 4
-
-[[menu.main]]
-    name = "Sponsors"
-    url = "/sponsors/"
-    weight = 5
-
-[[menu.main]]
-    name = "Hackathon"
-    url = "/hackathon/"
-    weight = 6
-
-[[menu.main]]
-    name = "Committee"
-    url = "/committee/"
-    weight = 7
-
- [[menu.main]]
-    name = "WiB Networking"
-    url = "https://meetu.ps/e/HK3vZ/JTbkL/a"
-    weight = 8
 
 [[menu.main]]
     name = "Prior Expo"
     url = "/flashback_2019/"
     weight = 9
 
-[[menu.main]]
-    name = "Register"
-    url = "https://www.eventbrite.com/e/mit-bitcoin-expo-2020-tickets-91011105667"
-    weight = 10
-
 [params]
   google_analytics_id= "UA-159043754-1"
   homepage_button_link = 'https://eepurl.com/gOVdKb'
   homepage_button_text = 'Join The Mailing List'
-  homepage_button_link2 = 'http://web.mit.edu/webcast/mitbitcoinexpo/s20/'
-  homepage_button_text2 = 'Livestream'
-  homepage_button_link3 = 'https://www.eventbrite.com/e/mit-bitcoin-expo-2020-tickets-91011105667'
-  homepage_button_text3 = 'Register Now'
-  homepage_button_link4 = 'https://cryptoeconomicsystems.pubpub.org/pub/w6pas45q'
-  homepage_button_text4 = 'COVID-19 Advisory'
+  homepage_button_link2 = 'https://forms.gle/uzrJSBLetz7co66K7'
+  homepage_button_text2 = 'Speaker Application'
+  homepage_button_link3 = '#'
+  homepage_button_text3 = 'Hackathon'
+  homepage_button_link4 = '#'
+  homepage_button_text4 = 'Interested in Hackathon?'
   homepage_intro = ''
   homepage_image = '/images/btc-live.jpg'
 
@@ -84,8 +49,8 @@ summaryLength = 30
   # enable_anchor_link = true
 
   [params.homepage_meta_tags]
-    meta_description = "MIT Bitcoin Expo 2020"
-    meta_og_title = "MIT Bitcoin Expo 2020"
+    meta_description = "MIT Bitcoin Expo 2021"
+    meta_og_title = "MIT Bitcoin Expo 2021"
     meta_og_type = "website"
 
   [params.logo]

@@ -1,10 +1,10 @@
 ---
-title: 'MIT Bitcoin Expo 2020'
+title: 'MIT Bitcoin Expo 2021'
 date: 2018-11-28T15:14:39+10:00
 ---
 
-## Building the Stack
+## The New Normal?
 
-March 7-8th 2020
+April 3-4th, 2021
 
-MIT Campus 
+Fully Online
