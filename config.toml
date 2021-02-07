@@ -29,7 +29,7 @@ summaryLength = 30
 
 [[menu.main]]
     name = "Prior Expo"
-    url = "/flashback_2019/"
+    url = "/flashback_2020/"
     weight = 9
 
 [params]
