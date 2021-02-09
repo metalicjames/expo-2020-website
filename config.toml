@@ -2,7 +2,7 @@ baseURL = "https://mitbitcoinexpo.org/"
 languageCode = "en-us"
 title = "MIT Bitcoin Expo 2021"
 themesDir = "themes"
-theme = "hugo-whisper-theme"
+theme = "mit-bitcoin-expo-theme"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
@@ -38,7 +38,7 @@ summaryLength = 30
   homepage_button_text = 'Join The Mailing List'
   homepage_button_link2 = 'https://forms.gle/uzrJSBLetz7co66K7'
   homepage_button_text2 = 'Speaker Application'
-  homepage_button_link3 = '#'
+  homepage_button_link3 = 'https://forms.gle/JUvaggfVCNS8P54G7'
   homepage_button_text3 = 'Hackathon'
   homepage_button_link4 = '#'
   homepage_button_text4 = 'Sponsorship Application'
